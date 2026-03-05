@@ -66,14 +66,9 @@ v2i_AUTHORITY_KEYID 0.9705293
 ``` 
 
 
-## CopyRight
-
-You can only use this code after obtaining the author's permission.
-
 ## Acknowledgment
 
 https://github.com/Yunlongs/Gemini
 
-LyuLumos©2023 All Rights Reserved.
 
 
